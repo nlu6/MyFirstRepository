@@ -1,0 +1,14 @@
+---
+title: "Assignment 6"
+author: "Nathan Underwood"
+date: "2023-11-16"
+output: pdf_document
+---
+
+## Step 1
+
+[Link to my GitHub page](https://github.com/nlu6)
+
+## Step 2
+
+
